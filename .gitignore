@@ -1,0 +1,37 @@
+# STM32CubeIDE and build folders
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.log
+*.o
+*.d
+*.dep
+*.i
+*.su
+*.gcno
+*.gcda
+*.lst
+*.srec
+*.lss
+*.axf
+*.crf
+*.dmp
+
+/build/
+.build/
+Debug/
+Release/
+MX_*
+.settings/
+.ipch/
+.cproject
+.project
+.metadata/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
